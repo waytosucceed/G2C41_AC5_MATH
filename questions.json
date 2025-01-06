@@ -1,0 +1,112 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "If the restaurant has 10 tables with 4 seats each, how many seats are available in total?<br>10 × 4 = ?",
+        "options": [
+            "30",
+            "40",
+            "20",
+            "10"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Max ordered 10 appetisers for his family. How many appetisers did he order in total?<br>10 × 1 = ?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "9"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Max's family shared 10 desserts, and each dessert had 3 slices. How many slices are there in total?<br>10 × 3 = ?",
+        "options": [
+            "30",
+            "20",
+            "25",
+            "15"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Max has 10 drinks for each of his 2 siblings. How many drinks does he have in total?<br>10 × 2 = ?",
+        "options": [
+            "20",
+            "18",
+            "22",
+            "15"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Max's family had 10 main courses, and each main course served 3 people. How many main courses did they order?<br>10 × 3 = ?",
+        "options": [
+            "28",
+            "29",
+            "30",
+            "31"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q6",
+        "question": "The restaurant had 10 pizzas for lunch, and each pizza had 6 slices. How many slices of pizza do they have in total?<br>6 × 10 = ?",
+        "options": [
+            "40",
+            "30",
+            "60",
+            "50"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q7",
+        "question": "Max's family took 10 takeout boxes, and each box had 15 leftovers. How many leftovers are there in total?<br>15 × 10 = ?",
+        "options": [
+            "130",
+            "140",
+            "150",
+            "120"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q8",
+        "question": "The serving counter had 10 salads. Each salad had 12 tomatoes in it. How many tomatoes were there in total?<br>12 × 10 = ?",
+        "options": [
+            "110",
+            "130",
+            "140",
+            "120"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q9",
+        "question": "The restaurant received an order of 10 soups. Each soup had 57 pieces of carrot. How many carrot pieces were there in total?<br>57 × 10 = ?",
+        "options": [
+            "570",
+            "150",
+            "507",
+            "510"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q10",
+        "question": "The restaurant had 10 lunch menus, and each menu had 21 options. How many options did they have in total?<br>21 × 10 = ?",
+        "options": [
+            "220",
+            "210",
+            "230",
+            "200"
+        ],
+        "correct": 1
+    }
+]

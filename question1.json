@@ -1,0 +1,33 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Max and his family ordered drinks at the restaurant. Fill in the blank to make the statement equal.",
+        "options":["","×","7","=","10","×","7"],
+        "answers": ["10","×","7","=","10","×","7"]
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Max's family shared desserts at the restaurant. Fill in the blank to make the statement equal.",
+        "options":["","×","10","=","10","×","14"],
+        "answers": ["14","×","10","=","10","×","14"]
+    },
+    {
+        "questionNo": "Q3",
+        "question": " At the restaurant, 10  tables ordered burgers. Fill in the blank to make the statement equal.",
+        "options":["24","×","","=","10","×","24"],
+        "answers": ["24","×","10","=","10","×","24"]
+    },
+    {
+        "questionNo": "Q4",
+        "question": "The restaurant received an order of 10 plates of pasta. Fill in the blank to make the statement equal.",
+        "options":["56","×","10","=","","×","56"],
+        "answers": ["56","×","10","=","10","×","56"]
+    },
+    {
+        "questionNo": "Q5",
+        "question": "The restaurant menu had different tacos. Fill in the blank to make the statement equal.",
+        "options":["","×","10","=","10","×","75"],
+        "answers": ["75","×","10","=","10","×","75"]
+    }
+  ]
+  
